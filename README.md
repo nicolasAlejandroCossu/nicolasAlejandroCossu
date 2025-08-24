@@ -5,29 +5,20 @@
 <h1>Hi, I'm Nicolás Cossu 👋</h1>
 </div>
 
-<p align="left">
-I'm a results-oriented <strong>Junior Data Engineer</strong> at <strong>Wollen Labs</strong> with a passion for building scalable and efficient data solutions. I specialize in designing and developing end-to-end backend infrastructures, from REST APIs with FastAPI to robust ETL pipelines that power data-driven decisions.
-</p>
+<p align="left"> I'm an 18-year-old <strong>Junior Data Engineer & Backend Developer</strong> at <strong>Wollen Labs</strong>, currently completing my final year in Electronics at San Vicente de Paul Technical School in Buenos Aires, Argentina. </p>
+
+<p align="left"> While still in high school, I've had the opportunity to gain early professional experience in the tech industry. At Wollen Labs, I contribute to projects involving data engineering and backend development, where my key responsibilities include: </p> <ul> <li>🔧 The creation of APIs, database modeling, and building data pipelines.</li> <li>⚙️ Working with tools such as PySpark, PostgreSQL, Snowflake, AWS, and FastAPI.</li> <li>📊 Gaining hands-on experience in a highly skilled and supportive team environment.</li> </ul>
 
 <p align="left">
-At Wollen Labs, my key contributions include:
+Beyond my professional role, I am passionate about applying my skills to personal projects.
 </p>
 <ul>
-<li>🔧 <strong>Backend Development:</strong> Designing and implementing database schemas, business logic, authentication, and full backend systems for production environments.</li>
-<li>⚙️ <strong>Automation & AI:</strong> Automating internal workflows and marketing operations with Python and AI features, significantly reducing manual work and operational costs.</li>
-<li>☁️ <strong>Cloud & Deployment:</strong> Deploying and maintaining backends using Docker and AWS services, ensuring scalability, reliability, and secure data management with automated backups and migrations.</li>
-<li>📊 <strong>Data Integration:</strong> Building and maintaining ETL pipelines, integrating Snowflake data warehouses, and creating dashboards to improve visibility of key performance indicators for cross-functional teams.</li>
+<li>🌱 I'm currently developing <strong><a href="https://aligne.framer.website/" target="_blank">Aligne</a></strong>, a SaaS platform focused on intelligent task and productivity management with AI. This project represents a personal challenge where I apply and expand my knowledge in system design, backend development, and product thinking.</li>
+<li>🚀 I also have experience in Data Science, having worked on exploratory analysis and small-scale machine learning projects, including supervised/unsupervised learning, EDA, and data visualization with Power BI and Tableau.</li>
 </ul>
 
 <p align="left">
-
-🌱 I'm currently building my own SaaS project, <a href="https://aligne.framer.website/" target="_blank"><strong>Aligne</strong></a>, and serving as a Project Manager and Data Engineer for the <strong>Siemens Logo! Competition</strong>.
-<br>
-
-🚀 I'm actively seeking to contribute to open-source projects related to AI, process automation, and data infrastructure.
-<br>
-
-📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/nicolas-cossu/" target="_blank"><strong>LinkedIn</strong></a>.
+I am a firm believer in continuous learning and have complemented my practical experience with multiple certifications from globally recognized institutions like IBM and Harvard University. I’m passionate about learning by doing and always looking to grow, collaborate, and contribute to meaningful projects.
 </p>
 
 <h2 align="center">My Tech Stack</h2>
@@ -45,8 +36,8 @@ At Wollen Labs, my key contributions include:
 <blockquote><code>PowerBI</code> <code>Tableau</code> <code>Matplotlib</code> <code>Seaborn</code></blockquote>
 <strong>Development Tools:</strong>
 <blockquote><code>Git</code> <code>GitHub</code> <code>Jupyter</code> <code>Bash</code> <code>PowerShell</code> <code>Postman</code></blockquote>
-<strong>Productivity:</strong>
-<blockquote><code>Notion</code> <code>Slack</code> <code>Make</code></blockquote>
+<strong>Productivity and Automation:</strong>
+<blockquote><code>Notion</code> <code>Slack</code> <code>Make</code> <code>n8n</code></blockquote>
 </div>
 
 <h2 align="center">Stats</h2>
@@ -58,16 +49,28 @@ At Wollen Labs, my key contributions include:
 <h2 align="center">Awards and Certificates</h2>
 
 <div align="center">
-<a href="https://certificates.cs50.io/089c03ca-3b0c-4947-bcf8-980c292da97b.pdf?size=letter" target="_blank">
-<img src="https://img.shields.io/badge/Harvard-CS50P-red?style=for-the-badge&logo=harvard&logoColor=white" height="35" alt="Harvard CS50P Certificate" />
-</a>
-<a href="https://certificates.cs50.io/aeb5e609-645b-4786-b955-71dcc666c586.pdf?size=letter" target="_blank">
-<img src="https://img.shields.io/badge/Harvard-CS50S-red?style=for-the-badge&logo=harvard&logoColor=white" height="35" alt="Harvard CS50S Certificate" />
-</a>
-<a href="https://cert.efset.org/en/QjkEuS" target="_blank">
-<img src="https://img.shields.io/badge/EFSET-English_C1-blue?style=for-the-badge" height="35" alt="EFSET English Certificate" />
-</a>
-<img src="https://img.shields.io/badge/IBM-Data_Science-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
+  <a href="https://certificates.cs50.io/089c03ca-3b0c-4947-bcf8-980c292da97b.pdf?size=letter" target="_blank">
+  <img src="https://img.shields.io/badge/Harvard-CS50P-red?style=for-the-badge&logo=harvard&logoColor=white" height="35" alt="Harvard CS50P Certificate" />
+  </a>
+  <a href="https://certificates.cs50.io/aeb5e609-645b-4786-b955-71dcc666c586.pdf?size=letter" target="_blank">
+  <img src="https://img.shields.io/badge/Harvard-CS50SQL-red?style=for-the-badge&logo=harvard&logoColor=white" height="35" alt="Harvard CS50S Certificate" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://courses.cognitiveclass.ai/certificates/70ecca66b0fa40b0b3e4c4254fba73f1" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Data_Science_101-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
+  </a>
+  <a href="https://courses.cognitiveclass.ai/certificates/08bc3ab4364a42e7bef9544dce7546ac" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Data_Science_Methodology-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
+  </a>
+  <a href="https://courses.cognitiveclass.ai/certificates/08bc3ab4364a42e7bef9544dce7546ac" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Data_Science_Tools-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://cert.efset.org/en/QjkEuS" target="_blank">
+  <img src="https://img.shields.io/badge/EFSET-English_C1-green?style=for-the-badge" height="35" alt="EFSET English Certificate" />
+  </a>
 </div>
 
 <h2 align="center">Contact and Social Media</h2>
