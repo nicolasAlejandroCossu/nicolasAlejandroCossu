@@ -13,7 +13,7 @@
 Beyond my professional role, I am passionate about applying my skills to personal projects.
 </p>
 <ul>
-<li>🌱 I'm currently developing <strong><a href="https://aligne.framer.website/" target="_blank">Aligne</a></strong>, a SaaS platform focused on intelligent task and productivity management with AI. This project represents a personal challenge where I apply and expand my knowledge in system design, backend development, and product thinking.</li>
+<li>🌱 I'm currently developing <strong><a href="https://aligne.framer.website/" target="blank">Aligne</a></strong>, a SaaS platform focused on intelligent task and productivity management with AI. This project represents a personal challenge where I apply and expand my knowledge in system design, backend development, and product thinking.</li>
 <li>🚀 I also have experience in Data Science, having worked on exploratory analysis and small-scale machine learning projects, including supervised/unsupervised learning, EDA, and data visualization with Power BI and Tableau.</li>
 </ul>
 
@@ -43,23 +43,23 @@ I am a firm believer in continuous learning and have complemented my practical e
 <h2 align="center">Awards and Certificates</h2>
 
 <div align="center">
-  <a href="https://certificates.cs50.io/089c03ca-3b0c-4947-bcf8-980c292da97b.pdf?size=letter" target="_blank">
+  <a href="https://certificates.cs50.io/089c03ca-3b0c-4947-bcf8-980c292da97b.pdf?size=letter" target="blank">
   <img src="https://img.shields.io/badge/Harvard-CS50P-red?style=for-the-badge&logo=harvard&logoColor=white" height="35" alt="Harvard CS50P Certificate" />
   </a>
-  <a href="https://certificates.cs50.io/aeb5e609-645b-4786-b955-71dcc666c586.pdf?size=letter" target="_blank">
+  <a href="https://certificates.cs50.io/aeb5e609-645b-4786-b955-71dcc666c586.pdf?size=letter" target="blank">
   <img src="https://img.shields.io/badge/Harvard-CS50SQL-red?style=for-the-badge&logo=harvard&logoColor=white" height="35" alt="Harvard CS50S Certificate" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://courses.cognitiveclass.ai/certificates/70ecca66b0fa40b0b3e4c4254fba73f1" target="_blank">
-  <img src="https://img.shields.io/badge/IBM-Data_Science_101-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
+  <a href="https://courses.cognitiveclass.ai/certificates/70ecca66b0fa40b0b3e4c4254fba73f1" target="blank">
+  <img src="https://img.shields.io/badge/IBM-Data_Science_101-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science 101 Certificate" />
   </a>
-  <a href="https://courses.cognitiveclass.ai/certificates/08bc3ab4364a42e7bef9544dce7546ac" target="_blank">
-  <img src="https://img.shields.io/badge/IBM-Data_Science_Methodology-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
+  <a href="https://courses.cognitiveclass.ai/certificates/08bc3ab4364a42e7bef9544dce7546ac" target="blank">
+  <img src="https://img.shields.io/badge/IBM-Data_Science_Methodology-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Methodology Certificate" />
   </a>
-  <a href="https://courses.cognitiveclass.ai/certificates/08bc3ab4364a42e7bef9544dce7546ac" target="_blank">
-  <img src="https://img.shields.io/badge/IBM-Data_Science_Tools-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
+  <a href="https://courses.cognitiveclass.ai/certificates/08bc3ab4364a42e7bef9544dce7546ac" target="blank">
+  <img src="https://img.shields.io/badge/IBM-Data_Science_Tools-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Tools Certificate" />
   </a>
 </div>
 <br>
@@ -78,13 +78,13 @@ I am a firm believer in continuous learning and have complemented my practical e
 <h2 align="center">Contact and Social Media</h2>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/nicolas-cossu/" target="_blank">
+<a href="https://www.linkedin.com/in/nicolas-cossu/" target="blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
 </a>
-<a href="mailto:nicolas.cossu2006@gmail.com" target="_blank">
+<a href="mailto:nicolas.cossu2006@gmail.com" target="blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
 </a>
-<a href="https://www.youtube.com/@thedatajourneyYT" target="_blank">
+<a href="https://www.youtube.com/@thedatajourneyYT" target="blank">
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
 </a>
 </div>
