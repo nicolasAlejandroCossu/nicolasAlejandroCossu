@@ -97,6 +97,9 @@ Committed to continuous learning, I aim to contribute to impactful, data-driven 
 <a href="mailto:nicolas.cossu2006@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
 </a>
+<a href="https://nicolasAlejandroCossu.github.io" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="30" alt="portfolio link" />
+</a>
 <a href="https://www.youtube.com/@thedatajourneyYT" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
 </a>
