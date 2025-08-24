@@ -40,12 +40,6 @@ I am a firm believer in continuous learning and have complemented my practical e
 <blockquote><code>Notion</code> <code>Slack</code> <code>Make</code> <code>n8n</code></blockquote>
 </div>
 
-<h2 align="center">Stats</h2>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=nicolasAlejandroCossu&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 <h2 align="center">Awards and Certificates</h2>
 
 <div align="center">
@@ -56,6 +50,7 @@ I am a firm believer in continuous learning and have complemented my practical e
   <img src="https://img.shields.io/badge/Harvard-CS50SQL-red?style=for-the-badge&logo=harvard&logoColor=white" height="35" alt="Harvard CS50S Certificate" />
   </a>
 </div>
+<br>
 <div align="center">
   <a href="https://courses.cognitiveclass.ai/certificates/70ecca66b0fa40b0b3e4c4254fba73f1" target="_blank">
   <img src="https://img.shields.io/badge/IBM-Data_Science_101-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
@@ -67,10 +62,17 @@ I am a firm believer in continuous learning and have complemented my practical e
   <img src="https://img.shields.io/badge/IBM-Data_Science_Tools-blue?style=for-the-badge&logo=ibm&logoColor=white" height="35" alt="IBM Data Science Certificates" />
   </a>
 </div>
+<br>
 <div align="center">
   <a href="https://cert.efset.org/en/QjkEuS" target="_blank">
   <img src="https://img.shields.io/badge/EFSET-English_C1-green?style=for-the-badge" height="35" alt="EFSET English Certificate" />
   </a>
+</div>
+
+<h2 align="center">Stats</h2>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=nicolasAlejandroCossu&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <h2 align="center">Contact and Social Media</h2>
