@@ -6,7 +6,7 @@
 </div>
 
 <p align="left">
-I'm a driven and self-taught Data Engineer with early professional experience in architecting scalable and reliable data infrastructures. I specialize in database modeling and building robust ETL pipelines using Python, AI, and cloud technologies like AWS and Snowflake to automate processes and extract actionable insights.
+I'm a passionate and self-taught Data Engineer with early professional experience in architecting scalable and reliable data infrastructures. I specialize in database modeling and building robust ETL pipelines using Python, AI, and cloud technologies like AWS and Snowflake to automate processes and extract actionable insights.
 </p>
 
 <p align="left">
@@ -24,8 +24,8 @@ Beyond my professional role, I am passionate about applying my skills to persona
 </p>
 <ul>
 <li>🌱 I'm currently developing <strong><a href="https://aligne.framer.website/" target="_blank">Aligne</a></strong>, a SaaS platform focused on intelligent task and productivity management with AI. This project is a personal challenge where I apply my knowledge in system design, backend development, and product thinking.</li>
-<li>🏆 I am also serving as a Project Manager and Data Engineer for the <strong>Siemens Logo! Competition</strong>.</li>
-<li>🚀 I have experience in Data Science, having worked on exploratory analysis and machine learning projects (supervised/unsupervised), including data visualization with Power BI and Tableau.</li>
+<li>🏆 I am also serving as a Project Manager and Data Engineer for my schoolar team on the <strong>Siemens Logo! Competition</strong>.</li>
+<li>🚀 I have experience in Data Science and Data Analysis, having worked on exploratory analysis and machine learning projects (supervised/unsupervised), including data visualization with Power BI and Tableau.</li>
 </ul>
 
 <p align="left">
